@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Robots/static/css/main.ec09db57.chunk.css",
+    "main.js": "/Robots/static/js/main.bf7cfc81.chunk.js",
+    "main.js.map": "/Robots/static/js/main.bf7cfc81.chunk.js.map",
+    "runtime~main.js": "/Robots/static/js/runtime~main.ec77e159.js",
+    "runtime~main.js.map": "/Robots/static/js/runtime~main.ec77e159.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/Robots/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/Robots/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/Robots/index.html",
+    "precache-manifest.3391af623d4a80db83d42a29ce94db47.js": "/Robots/precache-manifest.3391af623d4a80db83d42a29ce94db47.js",
+    "service-worker.js": "/Robots/service-worker.js",
+    "static/css/main.ec09db57.chunk.css.map": "/Robots/static/css/main.ec09db57.chunk.css.map"
+  }
+}
